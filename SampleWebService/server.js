@@ -5,3 +5,5 @@ http.createServer(function(request, response) {
 	response.write("Hello world");
 	response.end();
 }).listen(8888);
+
+console.log("Server running on port 8888");
