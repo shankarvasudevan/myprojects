@@ -7,11 +7,11 @@ namespace LinkedListProblems
 		public void Print(Node head)
 		{	
 			Console.WriteLine ("------------------------");
-			Node curr = head;
+			var curr = head;
 
 			while (curr != null) 
 			{
-				Console.Write ("{0} -> ", curr.Data);
+				Console.Write ("{0} -> ", curr);
 
 				if (curr.Next == null) 
 				{

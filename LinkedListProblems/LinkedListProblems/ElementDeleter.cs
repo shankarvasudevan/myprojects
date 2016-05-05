@@ -4,11 +4,11 @@ namespace LinkedListProblems
 {
 	public class ElementDeleter
 	{
-		public void Delete(Node elem)
+		public void Delete(StringNode elem)
 		{
 			while (elem != null) 
 			{
-				Node tmp = elem.Next;
+				StringNode tmp = (StringNode) elem.Next;
 
 				if (tmp != null) 
 				{

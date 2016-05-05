@@ -35,9 +35,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Node.cs" />
     <Compile Include="ElementDeleter.cs" />
+    <Compile Include="StringNode.cs" />
+    <Compile Include="IntNode.cs" />
+    <Compile Include="IntLinkedListAdder.cs" />
     <Compile Include="LinkedListPrinter.cs" />
+    <Compile Include="LinkedListGenerator.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="LinkedListReader.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
