@@ -43,6 +43,7 @@
     <Compile Include="LinkedListGenerator.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="LinkedListReader.cs" />
+    <Compile Include="CircularLinkedListLoopFinder.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

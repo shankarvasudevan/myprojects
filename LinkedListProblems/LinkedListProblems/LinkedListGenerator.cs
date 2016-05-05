@@ -6,25 +6,30 @@ namespace LinkedListProblems
 	{
 		public StringNode GenerateSinglyLinkedList(params string[] items)
 		{
-			StringNode n1 = new StringNode { Id = 1, Data = "A" };
-			StringNode n2 = new StringNode { Id = 2, Data = "B" };
-			StringNode n3 = new StringNode { Id = 3, Data = "C" };
-			StringNode n4 = new StringNode { Id = 4, Data = "D" };
-			StringNode n5 = new StringNode { Id = 5, Data = "E" };
-			StringNode n6 = new StringNode { Id = 6, Data = "F" };
-			StringNode n7 = new StringNode { Id = 7, Data = "G" };
-			StringNode n8 = new StringNode { Id = 8, Data = "H" };
+			StringNode head = null;
+			StringNode prev = null;
+			for (int i = 0; i < items.Length; i++) 
+			{
+				StringNode node = new StringNode 
+				{
+					Id = i,
+					Data = items [i],
+					Next = null
+				};
 
-			n1.Next = n2;
-			n2.Next = n3;
-			n3.Next = n4;
-			n4.Next = n5;
-			n5.Next = n6;
-			n6.Next = n7;
-			n7.Next = n8;
-			n8.Next = null;
+				if (prev != null) 
+				{
+					prev.Next = node;
+				} 
+				else 
+				{
+					head = node;
+				}
 
-			return n1;
+				prev = node;
+			}
+
+			return head;
 		}
 
 		public IntNode GenerateSinglyLinkedList(params int[] items)
@@ -53,6 +58,23 @@ namespace LinkedListProblems
 			}
 
 			return head;
+		}
+
+		public StringNode GenerateCircularLinkedList()
+		{
+			var n1 = new StringNode { Data = "A" };
+			var n2 = new StringNode { Data = "B" };
+			var n3 = new StringNode { Data = "C" };
+			var n4 = new StringNode { Data = "D" };
+			var n5 = new StringNode { Data = "E" };
+
+			n1.Next = n2;
+			n2.Next = n3;
+			n3.Next = n4;
+			n4.Next = n5;
+			n5.Next = n3;
+
+			return n1;
 		}
 	}
 }
