@@ -12,7 +12,7 @@ namespace Sorting
 
 			var sorter = new Sorter ();
 			var arrayPrinter = new ArrayPrinter ();
-			int[] actual = sorter.QuickSort (unsortedNumbers);
+			int[] actual = sorter.BucketSort (unsortedNumbers);
 
 			bool passed = actual.SequenceEqual(expected);
 

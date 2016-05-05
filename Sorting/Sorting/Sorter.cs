@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Sorting
 {
@@ -59,6 +61,64 @@ namespace Sorting
 			}
 
 			return resultSubList;
+		}
+
+		public int[] BucketSort(int[] numbers)
+		{
+			// Create buckets
+			List<int>[] buckets = new List<int>[]
+			{
+				new List<int> (),
+				new List<int> (),
+				new List<int> (),
+				new List<int> (),
+				new List<int> ()
+			};
+
+			// Scatter
+			for (int i = 0; i < numbers.Length; i++) 
+			{
+				int val = numbers [i];
+				if (val < 3) 
+				{
+					buckets [0].Add (val);
+				} 
+				else if (val >= 3 && val < 6) 
+				{
+					buckets [1].Add (val);
+				} 
+				else if (val >= 6 && val < 9) 
+				{
+					buckets [2].Add (val);
+				} 
+				else if (val >= 9 && val < 12) 
+				{
+					buckets [3].Add (val);
+				} 
+				else 
+				{
+					buckets [4].Add (val);
+				}
+			}
+
+			// Sort each bucket
+			for (int i = 0; i < buckets.Length; i++) 
+			{
+				buckets [i] = QuickSort (buckets [i].ToArray ()).ToList ();
+			}
+
+			// Read back each bucket
+			int index = 0;
+			for (int i = 0; i < buckets.Length; i++) 
+			{
+				int[] bucketItems = buckets [i].ToArray ();
+				for (int j = 0; j < bucketItems.Length; j++) 
+				{
+					numbers [index++] = bucketItems [j];
+				}
+			}
+
+			return numbers;
 		}
 
 		public int[] QuickSort(int[] numbers)
