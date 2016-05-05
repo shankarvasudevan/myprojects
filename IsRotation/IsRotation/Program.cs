@@ -14,26 +14,14 @@ namespace IsRotation
 
 		static bool IsRotation(string s1, string s2)
 		{
-			int len = s1.Length;
-
-			if (s2.Length != len)
+			if (s2.Length != s1.Length)
 			{
 				return false;
 			}
 
-			for (int i=1; i <= len; i++)
-			{
-				string front = s2.Substring(0,i);
-				string back = s2.Substring(i,len-i);
+			string s1_concatenated = s1 + s1;
 
-				if (IsSubstring(s1, front) && IsSubstring(s1, back))
-				{
-					return true;
-				}
-
-			}
-
-			return false;
+			return IsSubstring (s1_concatenated, s2);
 		}
 
 		static bool IsSubstring(string word, string potentialSubstring)
