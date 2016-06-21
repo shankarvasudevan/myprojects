@@ -7,24 +7,27 @@ namespace Sorting
 	{
 		public static void Main (string[] args)
 		{
-			int[] unsortedNumbers = new int[] { 8, 16, 5, 3, 2, 8, 9, 4 };
-			int[] expected = new [] { 2, 3, 4, 5, 8, 8, 9, 16 };
+			int aSize = 10;
+			int bSize = 5;
+			int[] a = new int[aSize];
+			int[] b = new int[bSize];
 
-			var sorter = new Sorter ();
-			var arrayPrinter = new ArrayPrinter ();
-			int[] actual = sorter.BucketSort (unsortedNumbers);
+			a [0] = 10;
+			a [1] = 12;
+			a [2] = 13;
+			a [3] = 16;
+			a [4] = 17;
 
-			bool passed = actual.SequenceEqual(expected);
+			b [0] = 3;
+			b [1] = 12;
+			b [2] = 13;
+			b [3] = 15;
+			b [4] = 18;
+		}
 
-			if (passed) 
-			{
-				Console.WriteLine ("Pass");
-			} 
-			else 
-			{
-				Console.WriteLine ("Fail");
-				arrayPrinter.Print(actual);
-			}
+		public int[] Merge(int[] a, int[] b)
+		{
+			
 		}
 	}
 }
