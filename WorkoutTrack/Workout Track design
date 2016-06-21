@@ -1,0 +1,16 @@
+Workout Track design
+
+
+REST API
+
+v1 - Be able to view results
+
+GET /workout/{date} = all the exercises you did on that day and their results
+GET /workout/{date}/exercise/{exerciseName} = the result of the exercise you did on that day
+
+v2 - Graph results for a particular exercise
+
+GET /exercise/{exerciseName} = all the results for that exercise over a period of time
+
+
+
