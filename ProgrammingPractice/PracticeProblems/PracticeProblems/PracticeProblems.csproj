@@ -35,9 +35,22 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ArraysAndStrings\AllUniqueCharChecker.cs" />
+    <Compile Include="ArraysAndStrings\AllUniquCharCheckerWithoutDataStructures.cs" />
+    <Compile Include="ArraysAndStrings\IAllUniqueCharChecker.cs" />
+    <Compile Include="ArraysAndStrings\StringReverser.cs" />
+    <Compile Include="ArraysAndStrings\DuplicateCharacterRemover.cs" />
+    <Compile Include="ArraysAndStrings\AnagramChecker.cs" />
+    <Compile Include="ArraysAndStrings\SpaceReplacer.cs" />
+    <Compile Include="ArraysAndStrings\MatrixRotator.cs" />
+    <Compile Include="ArraysAndStrings\MatrixZeroConverter.cs" />
+    <Compile Include="LinkedLists\DuplicateNodeRemover.cs" />
+    <Compile Include="LinkedLists\LinkedListPrinter.cs" />
+    <Compile Include="LinkedLists\LinkedListEqualityComparer.cs" />
+    <Compile Include="LinkedLists\LinkedListBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArraysAndStrings\" />
+    <Folder Include="LinkedLists\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

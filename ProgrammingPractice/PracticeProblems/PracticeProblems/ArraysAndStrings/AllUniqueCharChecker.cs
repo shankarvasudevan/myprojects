@@ -1,7 +1,7 @@
 ﻿using System;
 namespace PracticeProblems
 {
-	public class AllUniqueCharChecker
+	public class AllUniqueCharChecker : IAllUniqueCharChecker
 	{
 		public bool HasUniqueChars(string word)
 		{
@@ -25,4 +25,6 @@ namespace PracticeProblems
 			return true;
 		}
 	}
+
+
 }

@@ -5,7 +5,7 @@ using PracticeProblems;
 namespace PracticProblems.Tests
 {
 	[TestFixture]
-	public class AllUniqueCharCheckerTest
+	public class IAllUniqueCharCheckerTest
 	{
 		[Test]
 		[TestCase(null, true, Description="Null_ReturnsTrue")]
@@ -17,7 +17,7 @@ namespace PracticProblems.Tests
 		[TestCase("abcdefghijklmnopqrst", true, Description = "LongerStringWithoutRepeatedChar_ReturnsTrue")]
 		public void HasUniqueCharsTestCases(string word, bool expectedResult)
 		{
-			var uniqueCharChecker = new AllUniqueCharChecker();
+			IAllUniqueCharChecker uniqueCharChecker = new AllUniqueCharCheckerWithoutDataStructures();
 			var actualResult = uniqueCharChecker.HasUniqueChars(word);
 			Assert.That (actualResult, Is.EqualTo (expectedResult));
 		}

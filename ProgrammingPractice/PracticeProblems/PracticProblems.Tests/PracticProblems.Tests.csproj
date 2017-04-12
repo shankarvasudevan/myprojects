@@ -32,13 +32,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Test.cs" />
-    <Compile Include="ArraysAndStrings\AllUniqueCharCheckerTest.cs" />
+    <Compile Include="ArraysAndStrings\IAllUniqueCharCheckerTest.cs" />
+    <Compile Include="ArraysAndStrings\StringReverserTest.cs" />
+    <Compile Include="ArraysAndStrings\DuplicateCharacterRemoverTest.cs" />
+    <Compile Include="ArraysAndStrings\AnagramCheckerTest.cs" />
+    <Compile Include="ArraysAndStrings\SpaceReplacerTest.cs" />
+    <Compile Include="ArraysAndStrings\MatrixRotatorTest.cs" />
+    <Compile Include="ArraysAndStrings\MatrixZeroConverterTest.cs" />
+    <Compile Include="LinkedLists\DuplicateNodeRemoverTest.cs" />
+    <Compile Include="LinkedLists\LinkedListEqualityComparerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArraysAndStrings\" />
+    <Folder Include="LinkedLists\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PracticeProblems\PracticeProblems.csproj">
