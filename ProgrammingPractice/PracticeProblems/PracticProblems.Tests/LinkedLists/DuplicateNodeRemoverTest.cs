@@ -16,15 +16,15 @@ namespace PracticProblems.Tests
 				yield return new TestCaseData (
 					LinkedListBuilder<int>.Build (new [] { 1, 2, 3, 2, 4 }), 
 					LinkedListBuilder<int>.Build (new [] { 1, 2, 3, 4 }))
-					.SetName("MultipleDifferenceNumbersWithOneDuplicate");
+					.SetName("MultipleDifferenceNumbersWithOneDuplicate"); 
 				yield return new TestCaseData (
 					LinkedListBuilder<int>.Build (new [] { 1, 1 }), 
 					LinkedListBuilder<int>.Build (new [] { 1 }))
-					.SetName("SingleNumberDuplicatedOnce");
+					.SetName("SingleNumberDuplicatedOnce"); 
 				yield return new TestCaseData (
 					LinkedListBuilder<int>.Build (Enumerable.Empty<int> ()), 
 					LinkedListBuilder<int>.Build (Enumerable.Empty<int> ()))
-					.SetName ("EmptyLinkedList");
+					.SetName ("EmptyLinkedList"); 
 				yield return new TestCaseData (
 					LinkedListBuilder<int>.Build (new [] { 1, 1, 2, 2, 3, 3 }), 
 					LinkedListBuilder<int>.Build (new [] { 1, 2, 3 }))
@@ -32,7 +32,7 @@ namespace PracticProblems.Tests
 				yield return new TestCaseData (
 					LinkedListBuilder<int>.Build (new [] { 1, 2, 3 }), 
 					LinkedListBuilder<int>.Build (new [] { 1, 2, 3 }))
-					.SetName ("MultipleNumbersNoDuplicates");
+					.SetName ("MultipleNumbersNoDuplicates"); 
 			}
 		}
 
@@ -44,7 +44,7 @@ namespace PracticProblems.Tests
 			Assert.IsTrue (
 				new LinkedListEqualityComparer ().Equals (actual, expected),
 			    PrintError(actual, expected));
-		}
+		} 
 
 		[Test, TestCaseSource ("TestCases")]
 		public void RemoveWithoutBuffer_TestCases (LinkedList<int> original, LinkedList<int> expected)

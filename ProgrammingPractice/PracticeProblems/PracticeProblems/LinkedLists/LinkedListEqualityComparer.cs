@@ -25,7 +25,7 @@ namespace PracticeProblems
 
 			while (iterX != null) 
 			{
-				if (xValues.ContainsKey[iterX.Value]) {
+				if (xValues.ContainsKey(iterX.Value)) {
 					xValues [iterX.Value]++;
 				} else {
 					xValues.Add (iterX.Value, 1);
@@ -36,7 +36,12 @@ namespace PracticeProblems
 
 			while (iterY != null) 
 			{
-				yValues [iterY.Value]++;
+				if (yValues.ContainsKey (iterY.Value)) {
+					yValues [iterY.Value]++;
+				} else {
+					yValues.Add (iterY.Value, 1);
+				}
+
 				iterY = iterY.Next;
 			}
 

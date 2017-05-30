@@ -41,6 +41,12 @@
     <Compile Include="ArraysAndStrings\MatrixZeroConverterTest.cs" />
     <Compile Include="LinkedLists\DuplicateNodeRemoverTest.cs" />
     <Compile Include="LinkedLists\LinkedListEqualityComparerTest.cs" />
+    <Compile Include="LinkedLists\NthToLastLinkedListElementFinderTest.cs" />
+    <Compile Include="LinkedLists\LinkedListAdderTests.cs" />
+    <Compile Include="ArraysAndStrings\ArrayMergerTests.cs" />
+    <Compile Include="ArraysAndStrings\BattleshipSinkerTests.cs" />
+    <Compile Include="ArraysAndStrings\AdjacencyCheckerTest.cs" />
+    <Compile Include="LinkedLists\CircularLinkedListStartFinderTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

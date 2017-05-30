@@ -38,7 +38,18 @@ namespace PracticeProblems
 
 			while (firstIter != null) 
 			{
-				LinkedListNode<int> secondIter = original.First;
+				LinkedListNode<int> secondIter = firstIter.Next;
+				while (secondIter != null) {
+					if (firstIter.Value == secondIter.Value) {
+						LinkedListNode<int> tmp = secondIter;
+						secondIter = secondIter.Next;
+						original.Remove (tmp);
+					} else {
+						secondIter = secondIter.Next;
+					}
+				}
+
+				/*LinkedListNode<int> secondIter = original.First;
 				bool exists = false;
 				while (secondIter != null) 
 				{
@@ -54,7 +65,7 @@ namespace PracticeProblems
 					} else {
 						secondIter = secondIter.Next;
 					}
-				}
+				}*/
 
 				firstIter = firstIter.Next;
 			}

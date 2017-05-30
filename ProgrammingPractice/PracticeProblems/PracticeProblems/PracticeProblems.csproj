@@ -47,6 +47,13 @@
     <Compile Include="LinkedLists\LinkedListPrinter.cs" />
     <Compile Include="LinkedLists\LinkedListEqualityComparer.cs" />
     <Compile Include="LinkedLists\LinkedListBuilder.cs" />
+    <Compile Include="LinkedLists\NthToLastLinkedListElementFinder.cs" />
+    <Compile Include="LinkedLists\LinkedListNodeEqualityComparer.cs" />
+    <Compile Include="LinkedLists\LinkedListAdder.cs" />
+    <Compile Include="ArraysAndStrings\ArrayMerger.cs" />
+    <Compile Include="ArraysAndStrings\BattleshipSinker.cs" />
+    <Compile Include="ArraysAndStrings\AdjacencyChecker.cs" />
+    <Compile Include="LinkedLists\CircularLinkedListStartFinder.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArraysAndStrings\" />
