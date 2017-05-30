@@ -1,0 +1,13 @@
+
+Things to know:
+* Why Exception serializable?
+* Why not static
+* How the GC works in .NET?
+* Floating point arithmetic
+* How C# Random class works under the hood
+
+Tasks still to do for assignment:
+* Unit tests for validation
+* Unit tests for extrapolation
+* Download and Setup PostGres and Test solution
+(IF TIME) Attempt to write solution in Python
