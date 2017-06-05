@@ -29,8 +29,8 @@ namespace RandomGen.Tests
 				yield return new TestCaseData (
 					10,
 					new int [] { 1, 2, 3 },
-					new float [] { 0.2f, 0.3f, 0.5f },
-					new Dictionary<int, int> { { 1, 2 }, { 2, 3 }, { 3, 5 } },
+					new float [] { 0.25f, 0.25f, 0.5f },
+					new Dictionary<int, int> { { 1, 3 }, { 2, 2 }, { 3, 5 } },
 					2).SetName ("3Numbers10ThrowsSkewedProbability");
 
 				yield return new TestCaseData (
@@ -56,27 +56,52 @@ namespace RandomGen.Tests
 			}
 		}
 
+
+		public static IEnumerable<TestCaseData> ExtrapolateProbabilitiesTestCases 
+		{
+			get 
+			{
+				yield return new TestCaseData (
+					new float [] { 0.3f, 0.4f, 0.3f },
+					10)
+						.Returns (new int [] { 3, 4, 3 })
+						.SetName ("3ProbabilitiesNoRoundingOrTruncating");
+
+				yield return new TestCaseData (
+					new float [] { 0.25f, 0.25f, 0.5f },
+					10)
+						.Returns (new int [] { 3, 2, 5 })
+						.SetName ("3Probabilities2WithTruncating_ShouldRoundOnlyOne");
+
+				yield return new TestCaseData (
+					new float [] { 0.24f, 0.24f, 0.24f, 0.24f, 0.04f },
+					10)
+						.Returns (new int [] { 3, 2, 3, 2, 0 })
+						.SetName ("5ProbabilitiesAllWithTruncating_TruncatesEveryAlternateUntilReachedExtrapolationAmount");
+			}
+		}
+
 		[Test]
 		public void Constructor_NoNumbers_ThrowsException()
 		{
-			int[] numbers = new int[] { };
-			float[] probabilities = new float[] { 0.5f, 0.5f };
+			int [] numbers = new int [] { };
+			float [] probabilities = new float [] { 0.5f, 0.5f };
 			Assert.Throws<InvalidInputException>(() => new RandomGen(numbers, probabilities));
 		}
 
 		[Test]
 		public void Constructor_NoProbabilities_ThrowsException()
 		{
-			int[] numbers = new int[] { 1, 2 };
-			float[] probabilities = new float[] { };
+			int [] numbers = new int [] { 1, 2 };
+			float [] probabilities = new float [] { };
 			Assert.Throws<InvalidInputException>(() => new RandomGen(numbers, probabilities));
 		}
 
 		[Test]
 		public void Constructor_NumProbabilitiesNotEqualToRandomNums_ThrowsException()
 		{
-			int[] numbers = new int[] { 1, 2 };
-			float[] probabilities = new float[] { 0.5f };
+			int [] numbers = new int [] { 1, 2 };
+			float [] probabilities = new float [] { 0.5f };
 			Assert.Throws<InvalidInputException>(() => new RandomGen(numbers, probabilities));
 		}
 
@@ -91,35 +116,9 @@ namespace RandomGen.Tests
 		[Test]
 		public void Constructor_NotAllProbabilitiesAreBetweenZeroAndOne_ThrowsException ()
 		{
-			int[] numbers = new int [] { 1, 2 };
-			float[] probabilities = new float [] { -0.7f, 1.7f };
+			int [] numbers = new int [] { 1, 2 };
+			float [] probabilities = new float [] { -0.7f, 1.7f };
 			Assert.Throws<InvalidInputException>(() => new RandomGen (numbers, probabilities));			
-		}
-
-		[Test]
-		public void NextNum_Repeat10Times_ShouldFollowProbabilities()
-		{
-			int numThrows = 10;
-			int[] numbers = new int[] { 1, 2, 3, 4, 5 };
-			float[] probabilities = new float[] { 0.2f, 0.2f, 0.2f, 0.2f, 0.2f };
-			var randomGen = new RandomGen (numbers, probabilities);
-
-			Dictionary<int, int> expectedCounts = new Dictionary<int, int>
-			{
-				{ 1, 2 }, { 2, 2 }, { 3, 2 }, { 4, 2 }, { 5, 2 }
-			};
-
-			Dictionary<int, int> actualCounts = new Dictionary<int, int> 
-			{
-				{ 1, 0 }, { 2, 0 }, { 3, 0 }, { 4, 0 }, { 5, 0 }
-			};
-
-			for (int i = 0; i < numThrows; i++) 
-			{
-				actualCounts[randomGen.NextNum()]++;
-			}
-
-			Assert.AreEqual(expectedCounts, actualCounts);
 		}
 
 		[Test, TestCaseSource ("NextNumTestCases")]
@@ -153,6 +152,12 @@ namespace RandomGen.Tests
 			}
 
 			Assert.Pass();
+		}
+
+		[Test, TestCaseSource ("ExtrapolateProbabilitiesTestCases")]
+		public int [] ExtrapolateProbabilitiesTests(float[] probabilities, int extrapolationAmount)
+		{
+			return RandomGen.ExtrapolateProbabilities (probabilities, extrapolationAmount);
 		}
 
 		private bool ResultsMatch(Dictionary<int, int> expected, Dictionary<int, int> actual, int marginOfError)

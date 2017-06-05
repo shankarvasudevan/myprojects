@@ -5,40 +5,72 @@ namespace RandomGen
 {
 	public class RandomGen
 	{
-		public static readonly int ExtrapolationAmount = 100;
+		private const int ExtrapolationAmount = 100;
 
-		private readonly int [] numbersByProbability = new int[ExtrapolationAmount];
+		private readonly int[] numsExtrapolatedByProbability = new int[ExtrapolationAmount];
 		private readonly Random random;
 
 		public RandomGen(int[] randomNums, float[] probabilities)
 		{
 			this.ValidateInput(randomNums, probabilities);
-			this.FillNumbersByProbability(randomNums, probabilities);
-			this.random = new Random(DateTime.Now.Millisecond);
+			int[] extrapolatedProbabilities = ExtrapolateProbabilities (probabilities, ExtrapolationAmount);
+			this.numsExtrapolatedByProbability = FillByProbabilities(randomNums, extrapolatedProbabilities, ExtrapolationAmount);
+			this.random = new Random();
 		}
 
 		public int NextNum()
 		{
 			int nextNumIndex = this.random.Next() % ExtrapolationAmount;
-			return numbersByProbability[nextNumIndex];
+			return numsExtrapolatedByProbability[nextNumIndex];
 		}
 
-		private void FillNumbersByProbability(int[] numbers, float[] probs)
+		public static int[] ExtrapolateProbabilities(float[] probabilities, int extrapolationAmount)
 		{
-			int[] extrapolatedProbs = new int[probs.Length];
-			for (int i = 0; i < probs.Length; i++) 
+			int[] extrapolatedProbabilities = new int[probabilities.Length];
+			bool shouldRoundUp = true;
+
+			int extrapolationCount = 0;
+			for (int i = 0; i < probabilities.Length && extrapolationCount < extrapolationAmount; i++) 
 			{
-				extrapolatedProbs[i] = (int) (probs[i] * ExtrapolationAmount);
+				float extrapolatedProb = probabilities[i] * extrapolationAmount;
+				int truncatedProb = (int)extrapolatedProb;
+
+				if ((extrapolatedProb - (float)truncatedProb) > float.Epsilon) 
+				{
+					if (shouldRoundUp) 
+					{
+						truncatedProb += 1;
+					}
+
+					shouldRoundUp = !shouldRoundUp;
+				}
+
+				while (extrapolationCount + truncatedProb > extrapolationAmount) 
+				{
+					truncatedProb--;
+				}
+
+				extrapolatedProbabilities[i] = truncatedProb;
+				extrapolationCount += truncatedProb;
 			}
+
+			return extrapolatedProbabilities;
+		}
+
+		private static int[] FillByProbabilities(int[] numbers, int[] extrapolatedProbs, int extrapolationAmount)
+		{
+			int[] numbersByProbability = new int[extrapolationAmount];
 
 			int count = 0;
 			for (int i = 0; i < numbers.Length; i++) 
 			{
 				for (int j = 0; j < extrapolatedProbs[i]; j++) 
 				{
-					this.numbersByProbability[count++] = numbers[i];
+					numbersByProbability[count++] = numbers[i];
 				}
 			}
+
+			return numbersByProbability;
 		}
 
 		private void ValidateInput(int[] numbers, float[] probs)
