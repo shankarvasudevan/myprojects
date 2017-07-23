@@ -56,6 +56,15 @@ namespace RandomGen.Tests
 			}
 		}
 
+		public static IEnumerable<TestCaseData> FillTestCases 
+		{
+			get 
+			{
+				yield return new TestCaseData (new [] { 10, 20, 30 }, new [] { 2, 3, 5 }, 10)
+					.Returns (new [] { 10, 10, 20, 20, 20, 30, 30, 30, 30, 30 })
+					.SetName ("3Integers_ExtrapolationOf10");
+			}
+		}
 
 		public static IEnumerable<TestCaseData> ExtrapolateProbabilitiesTestCases 
 		{
@@ -78,6 +87,12 @@ namespace RandomGen.Tests
 					10)
 						.Returns (new int [] { 3, 2, 3, 2, 0 })
 						.SetName ("5ProbabilitiesAllWithTruncating_TruncatesEveryAlternateUntilReachedExtrapolationAmount");
+
+				yield return new TestCaseData (
+					new float [] { 0.24f, 0.5f, 0.16f, 0.1f },
+					10)
+						.Returns (new int [] { 3, 5, 1, 1 })
+						.SetName ("4ProbabilitiesSomeWithTruncating_TruncatesEveryAlternateOne");
 			}
 		}
 
@@ -158,6 +173,12 @@ namespace RandomGen.Tests
 		public int [] ExtrapolateProbabilitiesTests(float[] probabilities, int extrapolationAmount)
 		{
 			return RandomGen.ExtrapolateProbabilities (probabilities, extrapolationAmount);
+		}
+
+		[Test, TestCaseSource ("FillTestCases")]
+		public int [] FillByProbabilitiesTestCases (int [] numbers, int [] probabilities, int extrapolationAmount)
+		{
+			return RandomGen.FillByProbabilities (numbers, probabilities, extrapolationAmount);
 		}
 
 		private bool ResultsMatch(Dictionary<int, int> expected, Dictionary<int, int> actual, int marginOfError)

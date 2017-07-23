@@ -54,10 +54,39 @@
     <Compile Include="ArraysAndStrings\BattleshipSinker.cs" />
     <Compile Include="ArraysAndStrings\AdjacencyChecker.cs" />
     <Compile Include="LinkedLists\CircularLinkedListStartFinder.cs" />
+    <Compile Include="StacksAndQueues\ArrayBackedStack.cs" />
+    <Compile Include="StacksAndQueues\EfficientStack.cs" />
+    <Compile Include="StacksAndQueues\Stack.cs" />
+    <Compile Include="StacksAndQueues\SetOfStacks.cs" />
+    <Compile Include="StacksAndQueues\StacksBackedQueue.cs" />
+    <Compile Include="StacksAndQueues\StackSorter.cs" />
+    <Compile Include="TreesAndGraphs\TreeChecker.cs" />
+    <Compile Include="TreesAndGraphs\TreeNode.cs" />
+    <Compile Include="TreesAndGraphs\RouteChecker.cs" />
+    <Compile Include="TreesAndGraphs\GraphNode.cs" />
+    <Compile Include="TreesAndGraphs\BinaryTreeGenerator.cs" />
+    <Compile Include="TreesAndGraphs\BstToLinkedListConverter.cs" />
+    <Compile Include="TreesAndGraphs\TreePrinter.cs" />
+    <Compile Include="TreesAndGraphs\DoublyLinkedTreeNode.cs" />
+    <Compile Include="TreesAndGraphs\NextNodeFinder.cs" />
+    <Compile Include="TreesAndGraphs\FirstCommonAncestorFinder.cs" />
+    <Compile Include="TreesAndGraphs\BinaryTreeSubtreeChecker.cs" />
+    <Compile Include="SortingAndSearching\SortedArrayMerger.cs" />
+    <Compile Include="SortingAndSearching\AnagramSorter.cs" />
+    <Compile Include="SortingAndSearching\RotatedSortedArraySearcher.cs" />
+    <Compile Include="SortingAndSearching\InPlaceEfficientSorter.cs" />
+    <Compile Include="SortingAndSearching\SortedSpacedArraySearcher.cs" />
+    <Compile Include="SortingAndSearching\SortedMatrixSearcher.cs" />
+    <Compile Include="SortingAndSearching\CircusTowerGenerator.cs" />
+    <Compile Include="SampleQuestions\ArrayEquilibriumFinder.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArraysAndStrings\" />
     <Folder Include="LinkedLists\" />
+    <Folder Include="StacksAndQueues\" />
+    <Folder Include="TreesAndGraphs\" />
+    <Folder Include="SortingAndSearching\" />
+    <Folder Include="SampleQuestions\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

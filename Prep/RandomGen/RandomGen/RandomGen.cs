@@ -5,9 +5,13 @@ namespace RandomGen
 {
 	public class RandomGen
 	{
+		// 4 bytes
 		private const int ExtrapolationAmount = 100;
 
+		// 4 * 100 + 8 for object reference (assuming 64-bit) = 408
 		private readonly int[] numsExtrapolatedByProbability = new int[ExtrapolationAmount];
+
+		// Random class: 
 		private readonly Random random;
 
 		public RandomGen(int[] randomNums, float[] probabilities)
@@ -57,9 +61,16 @@ namespace RandomGen
 			return extrapolatedProbabilities;
 		}
 
-		private static int[] FillByProbabilities(int[] numbers, int[] extrapolatedProbs, int extrapolationAmount)
+		public static int[] FillByProbabilities(int[] numbers, int[] extrapolatedProbs, int extrapolationAmount)
 		{
 			int[] numbersByProbability = new int[extrapolationAmount];
+
+			/*
+			 * 10,11,12,13
+			 * 1,2,3,4
+			 * -----------
+			 * 10,11,11,12,12,12,13,13,13,13
+			 */
 
 			int count = 0;
 			for (int i = 0; i < numbers.Length; i++) 

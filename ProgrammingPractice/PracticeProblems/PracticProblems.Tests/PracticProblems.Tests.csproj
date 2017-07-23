@@ -27,7 +27,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="nunit.framework">
-      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+      <HintPath>..\packages\NUnit.3.7.1\lib\net45\nunit.framework.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -47,6 +47,26 @@
     <Compile Include="ArraysAndStrings\BattleshipSinkerTests.cs" />
     <Compile Include="ArraysAndStrings\AdjacencyCheckerTest.cs" />
     <Compile Include="LinkedLists\CircularLinkedListStartFinderTest.cs" />
+    <Compile Include="StacksAndQueues\ArrayBackedStackTest.cs" />
+    <Compile Include="StacksAndQueues\EfficientStackTest.cs" />
+    <Compile Include="StacksAndQueues\SetOfStacksTest.cs" />
+    <Compile Include="StacksAndQueues\StacksBackedQueueTest.cs" />
+    <Compile Include="StacksAndQueues\StackSorterTest.cs" />
+    <Compile Include="TreesAndGraphs\TreeCheckerTest.cs" />
+    <Compile Include="TreesAndGraphs\RouteCheckerTest.cs" />
+    <Compile Include="TreesAndGraphs\BinaryTreeGeneratorTest.cs" />
+    <Compile Include="TreesAndGraphs\BstToLinkedListConverterTest.cs" />
+    <Compile Include="TreesAndGraphs\NextNodeFinderTest.cs" />
+    <Compile Include="TreesAndGraphs\FirstCommonAncestorFinder.cs" />
+    <Compile Include="TreesAndGraphs\BinaryTreeSubtreeCheckerTest.cs" />
+    <Compile Include="SortingAndSearching\SortedArrayMergerTest.cs" />
+    <Compile Include="SortingAndSearching\AnagramSorterTest.cs" />
+    <Compile Include="SortingAndSearching\RotatedSortedArraySearcher.cs" />
+    <Compile Include="SortingAndSearching\InPlaceEfficientSorterTest.cs" />
+    <Compile Include="SortingAndSearching\SortedSpacedArraySearcherTest.cs" />
+    <Compile Include="SortingAndSearching\SortedMatrixSearcherTest.cs" />
+    <Compile Include="SortingAndSearching\CircusTowerGeneratorTest.cs" />
+    <Compile Include="SampleQuestions\ArrayEquilibriumFinderTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -54,6 +74,10 @@
   <ItemGroup>
     <Folder Include="ArraysAndStrings\" />
     <Folder Include="LinkedLists\" />
+    <Folder Include="StacksAndQueues\" />
+    <Folder Include="TreesAndGraphs\" />
+    <Folder Include="SortingAndSearching\" />
+    <Folder Include="SampleQuestions\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PracticeProblems\PracticeProblems.csproj">

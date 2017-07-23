@@ -1,0 +1,12 @@
+
+Problems to return to:
+
+Stacks & Queues
+3.4 - Towers of Hanoi
+
+
+
+
+A - B - D
+|	|
+--- C

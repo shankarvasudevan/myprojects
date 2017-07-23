@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeProblems", "Practic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticProblems.Tests", "PracticProblems.Tests\PracticProblems.Tests.csproj", "{2B3D9948-9225-44BB-ADC4-03A3A085BE31}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25CE7C14-2F0E-48AB-9440-F0422009115A}"
+	ProjectSection(SolutionItems) = preProject
+		whiteboard.txt = whiteboard.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
