@@ -1,0 +1,12 @@
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.Console.deps.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.Console.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.Console.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.Console.dll
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.Console.pdb
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.dll
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/bin/Release/netcoreapp2.0/PriceSubscriber.pdb
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/obj/Release/netcoreapp2.0/PriceSubscriber.Console.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/obj/Release/netcoreapp2.0/PriceSubscriber.Console.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/obj/Release/netcoreapp2.0/PriceSubscriber.Console.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/obj/Release/netcoreapp2.0/PriceSubscriber.Console.dll
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber.Console/obj/Release/netcoreapp2.0/PriceSubscriber.Console.pdb

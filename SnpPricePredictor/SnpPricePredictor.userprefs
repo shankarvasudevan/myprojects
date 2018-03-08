@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2B147D7E-2333-4568-821F-590AB65B6768}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PricePublisher/PricePublisher.cs">
+    <Files>
+      <File FileName="PricePublisher.Console/Program.cs" Line="10" Column="1" />
+      <File FileName="PricePublisher/PricePublisher.cs" Line="31" Column="1" />
+      <File FileName="PricePublisher/PriceEvent.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher.Console/Program.cs" relfile="PricePublisher.Console/Program.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PricePublisher.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="RunPubSub" Name="RunPubSub">
+      <Items>
+        <StartupItem ItemId="{2B147D7E-2333-4568-821F-590AB65B6768}" ItemName="PricePublisher.Console" ConfigurationId="Default" />
+        <StartupItem ItemId="{7D76E037-E78B-4F28-BE35-ED5A4C33B6F0}" ItemName="PriceSubscriber.Console" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.PriceSubscriber.Console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
