@@ -1,9 +1,0 @@
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/bin/Debug/netstandard2.0/PricePublisher.deps.json
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/bin/Debug/netstandard2.0/PricePublisher.dll
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/bin/Debug/netstandard2.0/PricePublisher.pdb
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.csprojResolveAssemblyReference.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.csproj.CoreCompileInputs.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.AssemblyInfoInputs.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.AssemblyInfo.cs
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.dll
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PricePublisher/obj/Debug/netstandard2.0/PricePublisher.pdb

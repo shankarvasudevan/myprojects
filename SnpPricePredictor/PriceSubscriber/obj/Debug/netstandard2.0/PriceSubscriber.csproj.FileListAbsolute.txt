@@ -1,9 +1,0 @@
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/bin/Debug/netstandard2.0/PriceSubscriber.deps.json
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/bin/Debug/netstandard2.0/PriceSubscriber.dll
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/bin/Debug/netstandard2.0/PriceSubscriber.pdb
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.csprojResolveAssemblyReference.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.csproj.CoreCompileInputs.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.AssemblyInfoInputs.cache
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.AssemblyInfo.cs
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.dll
-/Users/shankarvasudevan/Repo/myprojects/SnpPricePredictor/PriceSubscriber/obj/Debug/netstandard2.0/PriceSubscriber.pdb
