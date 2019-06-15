@@ -1,0 +1,10 @@
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/bin/Debug/netcoreapp2.0/KafkaProducer.deps.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/bin/Debug/netcoreapp2.0/KafkaProducer.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/bin/Debug/netcoreapp2.0/KafkaProducer.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/bin/Debug/netcoreapp2.0/KafkaProducer.dll
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/bin/Debug/netcoreapp2.0/KafkaProducer.pdb
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/obj/Debug/netcoreapp2.0/KafkaProducer.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/obj/Debug/netcoreapp2.0/KafkaProducer.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/obj/Debug/netcoreapp2.0/KafkaProducer.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/obj/Debug/netcoreapp2.0/KafkaProducer.dll
+/Users/shankarvasudevan/Repo/myprojects/SnpPricePrediction/KafkaProducer/obj/Debug/netcoreapp2.0/KafkaProducer.pdb

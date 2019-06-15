@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/bin/Debug/netcoreapp2.1/StaticsInCSharp.deps.json
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/bin/Debug/netcoreapp2.1/StaticsInCSharp.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/bin/Debug/netcoreapp2.1/StaticsInCSharp.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/bin/Debug/netcoreapp2.1/StaticsInCSharp.dll
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/bin/Debug/netcoreapp2.1/StaticsInCSharp.pdb
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.dll
+/Users/shankarvasudevan/Repo/myprojects/SevenConcurrencyModels/Ch2_ThreadsAndLocks/StaticsInCSharp/obj/Debug/netcoreapp2.1/StaticsInCSharp.pdb

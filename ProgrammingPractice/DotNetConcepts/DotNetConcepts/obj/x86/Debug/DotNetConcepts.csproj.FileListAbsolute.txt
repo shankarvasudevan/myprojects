@@ -1,0 +1,5 @@
+/Users/shankarvasudevan/repo/myprojects/DotNetConcepts/DotNetConcepts/bin/Debug/DotNetConcepts.exe
+/Users/shankarvasudevan/repo/myprojects/DotNetConcepts/DotNetConcepts/bin/Debug/DotNetConcepts.pdb
+/Users/shankarvasudevan/repo/myprojects/DotNetConcepts/DotNetConcepts/obj/x86/Debug/DotNetConcepts.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/repo/myprojects/DotNetConcepts/DotNetConcepts/obj/x86/Debug/DotNetConcepts.exe
+/Users/shankarvasudevan/repo/myprojects/DotNetConcepts/DotNetConcepts/obj/x86/Debug/DotNetConcepts.pdb
