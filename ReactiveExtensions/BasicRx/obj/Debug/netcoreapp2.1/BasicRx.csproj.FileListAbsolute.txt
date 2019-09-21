@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/bin/Debug/netcoreapp2.1/BasicRx.deps.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/bin/Debug/netcoreapp2.1/BasicRx.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/bin/Debug/netcoreapp2.1/BasicRx.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/bin/Debug/netcoreapp2.1/BasicRx.dll
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/bin/Debug/netcoreapp2.1/BasicRx.pdb
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.dll
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/BasicRx/obj/Debug/netcoreapp2.1/BasicRx.pdb

@@ -2,19 +2,34 @@
 <CodeLite_Workspace Name="CppExample" Database="" Version="10.0.0">
   <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
-  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="Yes"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="Section7Challenge" Path="Section7Challenge/Section7Challenge.project" Active="No"/>
+  <Project Name="Section8Challenge" Path="Section8Challenge/Section8Challenge.project" Active="No"/>
+  <Project Name="Section9Challenge" Path="Section9Challenge/Section9Challenge.project" Active="No"/>
+  <Project Name="Section10Challenge" Path="Section10Challenge/Section10Challenge.project" Active="No"/>
+  <Project Name="Assignment1" Path="Assignment1/Assignment1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="Project1" ConfigName="Debug"/>
       <Project Name="Project2" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="Section7Challenge" ConfigName="Debug"/>
+      <Project Name="Section8Challenge" ConfigName="Debug"/>
+      <Project Name="Section9Challenge" ConfigName="Debug"/>
+      <Project Name="Section10Challenge" ConfigName="Debug"/>
+      <Project Name="Assignment1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Project1" ConfigName="Release"/>
       <Project Name="Project2" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="Section7Challenge" ConfigName="Release"/>
+      <Project Name="Section8Challenge" ConfigName="Release"/>
+      <Project Name="Section9Challenge" ConfigName="Release"/>
+      <Project Name="Section10Challenge" ConfigName="Release"/>
+      <Project Name="Assignment1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
