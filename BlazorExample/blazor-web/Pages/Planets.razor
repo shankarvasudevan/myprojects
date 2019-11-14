@@ -1,0 +1,38 @@
+@inject HttpClient Http
+
+@page "/planets"
+
+<div>
+    @if(request == null)
+    {
+        <div>Loading...</div>
+    }
+    else
+    {
+        <div>
+            @foreach (var planet in request.Results)
+            {
+                <div>@planet.Name</div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    PlanetRequest request = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        request = await Http.GetJsonAsync<PlanetRequest>("https://swapi.co.api/planets");
+    }
+
+    public class PlanetRequest 
+    {
+        public Planet[] Results { get; set; }
+    }
+
+    public class Planet
+    {
+        public string Name { get; set; }
+    }
+}
