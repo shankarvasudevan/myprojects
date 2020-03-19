@@ -1,3 +1,0 @@
-.globl myfunc
-myfunc:
-    retl

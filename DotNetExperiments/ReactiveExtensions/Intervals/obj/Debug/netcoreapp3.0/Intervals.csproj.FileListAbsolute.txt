@@ -1,0 +1,14 @@
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals.deps.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals.dll
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/Intervals.pdb
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/System.Reactive.dll
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/bin/Debug/netcoreapp3.0/System.Reactive.xml
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.csproj.CopyComplete
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.dll
+/Users/shankarvasudevan/Repo/myprojects/ReactiveExtensions/Intervals/obj/Debug/netcoreapp3.0/Intervals.pdb

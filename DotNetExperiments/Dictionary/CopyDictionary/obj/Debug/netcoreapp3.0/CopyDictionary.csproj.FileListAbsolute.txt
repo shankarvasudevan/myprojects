@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/obj/Debug/netcoreapp3.0/CopyDictionary.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/obj/Debug/netcoreapp3.0/CopyDictionary.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/obj/Debug/netcoreapp3.0/CopyDictionary.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/bin/Debug/netcoreapp3.0/CopyDictionary.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/obj/Debug/netcoreapp3.0/CopyDictionary.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Dictionary/CopyDictionary/obj/Debug/netcoreapp3.0/CopyDictionary.pdb
