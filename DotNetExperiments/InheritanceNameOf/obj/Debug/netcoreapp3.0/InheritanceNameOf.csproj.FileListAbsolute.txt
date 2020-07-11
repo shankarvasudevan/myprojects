@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/obj/Debug/netcoreapp3.0/InheritanceNameOf.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/obj/Debug/netcoreapp3.0/InheritanceNameOf.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/obj/Debug/netcoreapp3.0/InheritanceNameOf.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/bin/Debug/netcoreapp3.0/InheritanceNameOf.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/obj/Debug/netcoreapp3.0/InheritanceNameOf.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceNameOf/obj/Debug/netcoreapp3.0/InheritanceNameOf.pdb

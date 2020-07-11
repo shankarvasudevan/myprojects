@@ -1,0 +1,14 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/Filtering.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/System.Reactive.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/bin/Debug/netcoreapp3.0/System.Reactive.xml
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.csproj.CopyComplete
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReactiveExtensions/Filtering/obj/Debug/netcoreapp3.0/Filtering.pdb

@@ -1,0 +1,3 @@
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/Enums/build/CMakeFiles/rebuild_cache.dir
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/Enums/build/CMakeFiles/edit_cache.dir
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/Enums/build/CMakeFiles/main.dir

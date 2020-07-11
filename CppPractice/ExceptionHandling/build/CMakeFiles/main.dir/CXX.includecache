@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/account.h
+iostream
+-
+string
+-
+iprintable.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/iprintable.h
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/checking_account.h
+account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/account.h
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/iprintable.h
+iostream
+-
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/main.cc
+iostream
+-
+account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/account.h
+savings_account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/savings_account.h
+checking_account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/checking_account.h
+trust_account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/trust_account.h
+iprintable.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/iprintable.h
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/savings_account.h
+account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/account.h
+
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/trust_account.h
+savings_account.h
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/ExceptionHandling/savings_account.h
+

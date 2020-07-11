@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/bin/Debug/netcoreapp3.0/InheritanceWithStatics.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/obj/Debug/netcoreapp3.0/InheritanceWithStatics.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/obj/Debug/netcoreapp3.0/InheritanceWithStatics.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/obj/Debug/netcoreapp3.0/InheritanceWithStatics.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/obj/Debug/netcoreapp3.0/InheritanceWithStatics.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/InheritanceWithStatics/obj/Debug/netcoreapp3.0/InheritanceWithStatics.pdb

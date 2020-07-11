@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/bin/Debug/netcoreapp3.0/PassByValueRef.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/obj/Debug/netcoreapp3.0/PassByValueRef.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/obj/Debug/netcoreapp3.0/PassByValueRef.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/obj/Debug/netcoreapp3.0/PassByValueRef.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/obj/Debug/netcoreapp3.0/PassByValueRef.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/PassByValueRef/obj/Debug/netcoreapp3.0/PassByValueRef.pdb

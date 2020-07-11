@@ -1,0 +1,3 @@
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/PalindromeWithStacksAndQueues/build/CMakeFiles/rebuild_cache.dir
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/PalindromeWithStacksAndQueues/build/CMakeFiles/edit_cache.dir
+/Users/shankarvasudevan/Repo/myprojects/CppPractice/PalindromeWithStacksAndQueues/build/CMakeFiles/main.dir
