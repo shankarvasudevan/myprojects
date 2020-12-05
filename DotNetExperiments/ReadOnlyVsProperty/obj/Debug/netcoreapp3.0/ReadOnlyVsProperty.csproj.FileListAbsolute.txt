@@ -1,0 +1,11 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/bin/Debug/netcoreapp3.0/ReadOnlyVsProperty.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/obj/Debug/netcoreapp3.0/ReadOnlyVsProperty.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/obj/Debug/netcoreapp3.0/ReadOnlyVsProperty.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/obj/Debug/netcoreapp3.0/ReadOnlyVsProperty.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/obj/Debug/netcoreapp3.0/ReadOnlyVsProperty.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ReadOnlyVsProperty/obj/Debug/netcoreapp3.0/ReadOnlyVsProperty.pdb

@@ -1,0 +1,3 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/StructsVsClass/obj/Debug/netcoreapp3.0/StructsVsClass.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/StructsVsClass/obj/Debug/netcoreapp3.0/StructsVsClass.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/StructsVsClass/obj/Debug/netcoreapp3.0/StructsVsClass.AssemblyInfo.cs
