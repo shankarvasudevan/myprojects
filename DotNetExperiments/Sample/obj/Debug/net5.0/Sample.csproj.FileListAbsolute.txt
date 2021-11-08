@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/Sample.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/Sample.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/Sample.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/Sample.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/ref/Sample.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/bin/Debug/net5.0/Sample.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/ref/Sample.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Sample/obj/Debug/net5.0/Sample.genruntimeconfig.cache

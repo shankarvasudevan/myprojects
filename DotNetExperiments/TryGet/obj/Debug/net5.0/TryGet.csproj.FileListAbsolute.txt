@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/TryGet.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/TryGet.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/TryGet.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/TryGet.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/ref/TryGet.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/bin/Debug/net5.0/TryGet.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/ref/TryGet.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/TryGet/obj/Debug/net5.0/TryGet.genruntimeconfig.cache

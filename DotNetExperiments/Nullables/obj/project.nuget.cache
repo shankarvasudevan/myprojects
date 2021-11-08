@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZskyQOFsRlovcmTxWmDZoC7rLohaYAmvPUXBYPMjAzIbxplso9HkDqfpT48vXsIfAXUYU2FFkmZzs4idJwGbA==",
+  "success": false,
+  "projectFilePath": "/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Nullables/Nullables.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.0.1' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.0.1' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.0.1' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.0.1' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache

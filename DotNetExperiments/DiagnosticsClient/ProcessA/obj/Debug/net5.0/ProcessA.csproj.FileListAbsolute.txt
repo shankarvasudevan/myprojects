@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ProcessA.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ProcessA.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ProcessA.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ProcessA.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ref/ProcessA.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/bin/Debug/net5.0/ProcessA.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ref/ProcessA.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessA/obj/Debug/net5.0/ProcessA.genruntimeconfig.cache

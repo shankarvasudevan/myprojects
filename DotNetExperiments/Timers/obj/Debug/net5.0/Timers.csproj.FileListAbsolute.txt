@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/Timers.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/Timers.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/Timers.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/Timers.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/ref/Timers.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/bin/Debug/net5.0/Timers.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/ref/Timers.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Timers/obj/Debug/net5.0/Timers.genruntimeconfig.cache

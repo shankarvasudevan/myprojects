@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/DictionaryRemove.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/DictionaryRemove.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/DictionaryRemove.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/DictionaryRemove.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/ref/DictionaryRemove.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/bin/Debug/net5.0/DictionaryRemove.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/ref/DictionaryRemove.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryRemove/obj/Debug/net5.0/DictionaryRemove.genruntimeconfig.cache

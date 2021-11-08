@@ -1,0 +1,5 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Span/obj/Debug/net5.0/Span.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Span/obj/Debug/net5.0/Span.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Span/obj/Debug/net5.0/Span.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Span/obj/Debug/net5.0/Span.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Span/obj/Debug/net5.0/Span.csproj.CoreCompileInputs.cache

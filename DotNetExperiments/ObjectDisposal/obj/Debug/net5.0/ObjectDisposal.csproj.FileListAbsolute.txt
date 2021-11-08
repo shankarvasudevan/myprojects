@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ObjectDisposal.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ObjectDisposal.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ObjectDisposal.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ObjectDisposal.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ref/ObjectDisposal.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/bin/Debug/net5.0/ObjectDisposal.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ref/ObjectDisposal.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/ObjectDisposal/obj/Debug/net5.0/ObjectDisposal.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/DictionaryReference.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/DictionaryReference.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/DictionaryReference.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/DictionaryReference.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/ref/DictionaryReference.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/bin/Debug/net5.0/DictionaryReference.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/ref/DictionaryReference.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DictionaryReference/obj/Debug/net5.0/DictionaryReference.genruntimeconfig.cache

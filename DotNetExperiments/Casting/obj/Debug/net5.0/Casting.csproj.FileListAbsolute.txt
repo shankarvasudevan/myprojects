@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/Casting.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/Casting.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/Casting.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/Casting.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/ref/Casting.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/bin/Debug/net5.0/Casting.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/ref/Casting.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/Casting/obj/Debug/net5.0/Casting.genruntimeconfig.cache

@@ -1,19 +1,43 @@
 #include <iostream>
+#include <numeric>
+#include <vector>
 
-using Combo = std::tuple<int, bool, char>;
+struct Combo
+{
+	int mValue;
+	bool mFlag;
+	char mStatus;
+};
 
 int main(int argc, char* argv[])
 {
-	Combo c1 {42, true, 'A'};
-	Combo c2 {42, false, 'B'};
-	Combo c3 {42, false, 'A'};
-	Combo c4 {42, true, 'B'};
-	Combo c5 {50, true, 'A'};
-	Combo c6 {50, true, 'B'};
-	Combo c7 {42, true, 'A'};
+	std::vector<Combo> vec;
 
-	std::cout << "c1 == c7: " << (c1 == c7) << std::endl;
-	std::cout << "c1 == c2 : " << (c1 == c2) << std::endl;
+	vec.push_back(Combo{1, true, 'A'});
+	vec.push_back(Combo{20, false, 'B'});
+	vec.push_back(Combo{30, false, 'C'});
+	vec.push_back(Combo{4, true, 'D'});
 
-	return 0;
+	int sum = std::accumulate(vec.begin(), vec.end(), 0, [](int total, Combo c) { return total + c.mValue;  });
+
+	int trueSum = 0;
+	int falseSum = 0;
+
+	std::for_each(vec.begin(), vec.end(), 
+	[&](Combo& c) 
+	{ 
+		if (c.mFlag) 
+		{
+			trueSum += c.mValue;
+		} 
+		else
+		{
+			falseSum += c.mValue;
+		}
+	});
+
+	std::cout << "Sum = " << sum << std::endl;
+
+	std::cout << "TrueSum = " << trueSum << std::endl;
+	std::cout << "FalseSum = " << falseSum << std::endl;
 }

@@ -62,6 +62,17 @@
         "iomanip": "cpp",
         "fstream": "cpp",
         "unordered_set": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "__tree": "cpp",
+        "bit": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "numeric": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "stack": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp"
     }
 }

@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/SortedList.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/SortedList.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/SortedList.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/SortedList.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/ref/SortedList.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/bin/Debug/net5.0/SortedList.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/ref/SortedList.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/SortedList/obj/Debug/net5.0/SortedList.genruntimeconfig.cache

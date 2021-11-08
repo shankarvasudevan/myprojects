@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/EnumerableEquality.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/EnumerableEquality.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/EnumerableEquality.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/EnumerableEquality.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/ref/EnumerableEquality.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/bin/Debug/net5.0/EnumerableEquality.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/ref/EnumerableEquality.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/EnumerableEquality/obj/Debug/net5.0/EnumerableEquality.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlYQZ59Fp4doz8v+wXVcMB0TIp2Aay5PlJztVnFURNlz9HeMwDlvn3LdLiYRZlfZOUyFPc261VspOJ7QJhXJQg==",
+  "success": false,
+  "projectFilePath": "/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/DiagClient/DiagClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.diagnostics.netcore.client/0.2.248003/microsoft.diagnostics.netcore.client.0.2.248003.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.configuration/2.1.1/microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.1/microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.configuration.binder/2.1.1/microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.1/microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.logging/2.1.1/microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.options/2.1.1/microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/shankarvasudevan/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl.AsyncInterfaces 1.1.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.Bcl.AsyncInterfaces 1.1.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl.AsyncInterfaces 1.1.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.Bcl.AsyncInterfaces 1.1.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    }
+  ]
+}

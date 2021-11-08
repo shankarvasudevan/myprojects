@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ProcessB.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ProcessB.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ProcessB.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ProcessB.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ref/ProcessB.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/bin/Debug/net5.0/ProcessB.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ref/ProcessB.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/DiagnosticsClient/ProcessB/obj/Debug/net5.0/ProcessB.genruntimeconfig.cache

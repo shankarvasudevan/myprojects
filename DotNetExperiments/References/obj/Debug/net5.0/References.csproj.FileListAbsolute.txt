@@ -1,0 +1,15 @@
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/References.deps.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/References.runtimeconfig.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/References.runtimeconfig.dev.json
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/References.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/ref/References.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/bin/Debug/net5.0/References.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.csprojAssemblyReference.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.AssemblyInfoInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.AssemblyInfo.cs
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.csproj.CoreCompileInputs.cache
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/ref/References.dll
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.pdb
+/Users/shankarvasudevan/Repo/myprojects/DotNetExperiments/References/obj/Debug/net5.0/References.genruntimeconfig.cache
